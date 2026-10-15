@@ -1,0 +1,8 @@
+.git
+.gitignore
+scripts/
+appspec.yml
+train_model.py
+README.md
+__pycache__/
+*.pyc
